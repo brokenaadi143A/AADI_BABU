@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "➺ 🌸𒁍आदि बाबू",
-    "PREFIX": "#",
+    "BOTNAME": "{ # } × 𒁍आदि बाबू",
+    "PREFIX": ".",
     "ADMINBOT": [
         "",
         "",
-        "",
         "100066401546757",
+        "",
         "",
         "",
         ""
@@ -35,7 +35,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "appstate.json",
+    "APPSTATEPATH": "Aadi.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
