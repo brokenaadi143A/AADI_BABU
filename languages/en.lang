@@ -1,37 +1,37 @@
-# If you want to move down the line, please use \n. e.g: Priyanshu\nPriyansh.
+# If you want to move down the line, please use \n. e.g: Aadi\nAadi.
 # After changed, you have to restart the bot to use.
 # Put the # character at the beginning of each sentence if you don't want the code to run those lines. 
 # Thanks to https://www.facebook.com/duong.than.net for translate to English!
 
-# Priyansh.js 
+# Aadi.js 
 
-priyansh.newVersionDetected=𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 %1, 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐢𝐬 %2. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐨𝐟 𝐟𝐨𝐫 𝐛𝐞𝐭𝐭𝐞𝐫 𝐛𝐨𝐭 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞. 𝐅𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐲𝐩𝐞 𝐢𝐧 𝐜𝐨𝐧𝐬𝐨𝐥𝐞/𝐜𝐦𝐝: 𝐧𝐨𝐝𝐞 𝐮𝐩𝐝𝐚𝐭𝐞
-priyansh.errorFormat=Malformed module!
-priyansh.nameExist=Module's name is similar to another module!
-priyansh.notFoundLanguage=Module %1 don't support your language
-priyansh.notFoundPackage=Can't find package %1 support for module %2, installing...
-priyansh.cantInstallPackage=Can't install package %1 for module %2, error: %3
-priyansh.loadedPackage=Installed whole package successfully for module %1
-priyansh.loadedConfig=Installed config successfully for module %1
-priyansh.cantLoadConfig=Can't install config of module %1, error: %2
-priyansh.cantOnload=Can't launch setup of module %1, error: %1
-priyansh.successLoadModule=Successfully installed module %1
-priyansh.failLoadModule=Can't install module %1, error: %2
-priyansh.finishLoadModule=Installed %1 module commands and %2 module events successfully 
-priyansh.foundPathAppstate=Found appstate file now logging in...
-priyansh.notFoundPathAppstate=Error can't find appstate file maybe file is malformed!
-priyansh.checkListGban=Checking global ban list...
-priyansh.banDevice=Your device have been banned from Priyanshproject, please contact to facebook https://fb.me/Priyanshu.Rajput.official to know more information or asking for unban key, if you already have unban key, please fill it below.
-priyansh.keyNotSameFormat=Wrong format, code must contain 6 number.
-priyansh.codeInputExpired=Your code is wrong or out of date.
-priyansh.unbanDeviceSuccess=Your device are unban now, please restart to use.
-priyansh.userBanned=You had been banned from Priyanshproject when %1 with reason: %2. Please contact to facebook https://fb.me/Priyanshu.Rajput.official to have more information!
-priyansh.finishCheckListGban=Checked global ban list
-priyansh.handleListenError=handleListene has occurred some unexpected errorr, error : %1
-priyansh.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
-priyansh.refreshListen=Refreshed handleListener...
-priyansh.successConnectDatabase=Connected to database successfully!
-priyansh.failConnectDatabase=Failed to connect to database, error: %1
+Aadi.newVersionDetected=𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 %1, 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐢𝐬 %2. 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐞 𝐥𝐚𝐭𝐞𝐬𝐭 𝐯𝐞𝐫𝐬𝐢𝐨𝐧 𝐨𝐟 𝐟𝐨𝐫 𝐛𝐞𝐭𝐭𝐞𝐫 𝐛𝐨𝐭 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞. 𝐅𝐨𝐫 𝐮𝐩𝐝𝐚𝐭𝐞 𝐭𝐲𝐩𝐞 𝐢𝐧 𝐜𝐨𝐧𝐬𝐨𝐥𝐞/𝐜𝐦𝐝: 𝐧𝐨𝐝𝐞 𝐮𝐩𝐝𝐚𝐭𝐞
+Aadi.errorFormat=Malformed module!
+Aadi.nameExist=Module's name is similar to another module!
+Aadi.notFoundLanguage=Module %1 don't support your language
+Aadi.notFoundPackage=Can't find package %1 support for module %2, installing...
+Aadi.cantInstallPackage=Can't install package %1 for module %2, error: %3
+Aadi.loadedPackage=Installed whole package successfully for module %1
+Aadi.loadedConfig=Installed config successfully for module %1
+Aadi.cantLoadConfig=Can't install config of module %1, error: %2
+Aadi.cantOnload=Can't launch setup of module %1, error: %1
+Aadi.successLoadModule=Successfully installed module %1
+Aadi.failLoadModule=Can't install module %1, error: %2
+Aadi.finishLoadModule=Installed %1 module commands and %2 module events successfully 
+Aadi.foundPathAppstate=Found appstate file now logging in...
+Aadi.notFoundPathAppstate=Error can't find appstate file maybe file is malformed!
+Aadi.checkListGban=Checking global ban list...
+Aadi.banDevice=Your device have been banned from Aadiproject, please contact to facebook https://fb.me/Aadi.babu.123 to know more information or asking for unban key, if you already have unban key, please fill it below.
+Aadi.keyNotSameFormat=Wrong format, code must contain 6 number.
+Aadi.codeInputExpired=Your code is wrong or out of date.
+Aadi.unbanDeviceSuccess=Your device are unban now, please restart to use.
+Aadi.userBanned=You had been banned from Aadiproject when %1 with reason: %2. Please contact to facebook https://fb.me/Aadi.babu.123 to have more information!
+Aadi.finishCheckListGban=Checked global ban list
+Aadi.handleListenError=handleListene has occurred some unexpected errorr, error : %1
+Aadi.warningSourceCode=DETECTED THAT SOURCE CODE'S STRUCTURE HAD BEEN CHANGED , STOP NOW!
+Aadi.refreshListen=Refreshed handleListener...
+Aadi.successConnectDatabase=Connected to database successfully!
+Aadi.failConnectDatabase=Failed to connect to database, error: %1
 
 # includes/listen.js
 
@@ -59,14 +59,14 @@ users.needObject=Have to be an Object
 
 # includes/handle/handleCommand.js
 
-handleCommand.userBanned=⛔️~Tu Banned Hai Re 🤭!~🚫\n%1\n%2\nContact B0T Owner  『٭』 ᏴᎡϴᏦᎬΝ ᎪᎪᎠᏆ 『٭』 🖤 For Unban ⚠️
-handleCommand.threadBanned=⛔️Your Thread/Box/Group Has Been Banned!⛔️\n%1\n%2 Please Contact Owner  『٭』 ᏴᎡϴᏦᎬΝ ᎪᎪᎠᏆ 『٭』 For Unban ⚠️
-handleCommand.commandNotExist=Abe Yaar Pura Command To Likh Le 😹 %1 Yes Or Not ? 🙄
+handleCommand.userBanned=⛔️~𝐓𝐔 𝐁𝐀𝐍𝐍𝐄𝐃 𝐇𝐀𝐈 𝐑𝐄 𝐓𝐔𝐓𝐈6𝐀 🤭!~🚫\n%1\n%2\n𝐂𝐎𝐍𝐓𝐀𝐂𝐓 = 𝐎𝐰𝐧𝐞𝐫   ➻   𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮 𝐅𝐎𝐑 𝐔𝐍𝐁𝐀𝐍 ⚠️
+handleCommand.threadBanned=⛔️𝐘𝐎𝐔𝐑/𝐁𝐎𝐗/𝐆𝐑𝐎𝐔𝐏 𝐎𝐰𝐧𝐞𝐫   ➻   𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮!⛔️\n%1\n%2 𝐏𝐋𝐄𝐀𝐒𝐑 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 = 𝐎𝐰𝐧𝐞𝐫   ➻   𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮 𝐅𝐎𝐑 𝐔𝐍𝐁𝐀𝐍 ⚠️
+handleCommand.commandNotExist=𝐀𝐋𝐄 𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐓𝐎 𝐒𝐀𝐇𝐈 𝐒𝐄 𝐋𝐈𝐊𝐇 𝐋𝐄💐 %1 ? 🙄
 handleCommand.commandThreadBanned=Your thread is unable to use command "%1"
 handleCommand.commandUserBanned=You are unable to use command "%1"
 handleCommand.threadNotAllowNSFW=Your thread is not allowed to use NSFW commands
 handleCommand.cantGetInfoThread=Can't get your thread's info, error: %1
-handleCommand.permssionNotEnough=📑Ye command 📝Sirf Mere Øwner  『٭』 ᏴᎡϴᏦᎬΝ ᎪᎪᎠᏆ 『٭』 Ko Hi Allow Hai ✋❌ "%1"
+handleCommand.permssionNotEnough=💐𝐌𝐄𝐑𝐈 𝐉𝐀𝐀𝐍 𝐘𝐄𝐇 𝐂𝐎𝐌𝐌𝐀𝐍𝐃 𝐒𝐈𝐑𝐅 𝐌𝐄𝐑𝐄 𝐎𝐰𝐧𝐞𝐫   ➻   𝐀𝐚𝐝𝐢 𝐛𝐚𝐛𝐮 𝐊𝐎 𝐇𝐈 𝐀𝐋𝐋𝐎𝐖 𝐇𝐀𝐈💐✋❌ "%1"
 handleCommand.cantSetMessageReaction=Having some unexpected error at setMessageReaction, error: %1
 handleCommand.executeCommand=[ %1 ] Command used: %2 by user: %3 at thread: %4 | Args included: %5 | Processing time: %6ms
 handleCommand.commandError=Having some unexpected error when using command %1, error: %2
